@@ -11,3 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=300&lines=Tools+🔅)](https://git.io/typing-svg)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=300&lines=Game+Dev+🎮)](https://git.io/typing-svg)
+
+![Pygame](https://img.shields.io/badge/Pygame-00979D?style=flat-square&logo=python&logoColor=white)
