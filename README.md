@@ -13,4 +13,4 @@
 </div>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jisoo0420&theme=github-compact&hide_border=true)
+![GitHub Contributions](https://ghchart.rshah.org/40916c/jisoo0420)ity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jisoo0420&theme=github-compact&hide_border=true)
