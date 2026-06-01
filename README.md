@@ -1,12 +1,4 @@
-<div align="center">
-
-🌀
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:ffffff&height=200&section=header&text=Jisoo's%20Github&fontSize=50&fontColor=ffffff)
-
-🌀
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:ffffff&height=200&section=header&text=🌀%20Jisoo's%20Github%20🌀&fontSize=50&fontColor=ffffff)
 <div align="center">
 
 💡 ash01@dgsw.hs.kr &nbsp;|&nbsp; 💡 [jisoo0420](https://github.com/jisoo0420) &nbsp;|&nbsp; 💡 [Notion](https://app.notion.com/p/31f5f31b9be280b5984bf13e6ddd8570?source=copy_link) &nbsp;|&nbsp; 💡 Discord : jisu0420
