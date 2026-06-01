@@ -2,7 +2,7 @@
 
 # 🌀 Jisoo's Github 🌀
 
-📧 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr) &nbsp;|&nbsp; 🐱 [jisoo0420](https://github.com/jisoo0420)
+💡 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr) &nbsp;|&nbsp; 💡 [jisoo0420](https://github.com/jisoo0420)
 
 대구 소프트웨어 마이스터 고등학교 1학년
 
