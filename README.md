@@ -8,10 +8,11 @@
 
 | 🔅 Front | 🔅 Back | 🔅 Tools |
 |:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-2E9E82?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-3AAFA9?style=flat-square&logo=css3&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-2E9E82?style=flat-square&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/Java-3AAFA9?style=flat-square&logo=java&logoColor=ffffff) ![Ruby](https://img.shields.io/badge/Ruby-4D8C7A?style=flat-square&logo=ruby&logoColor=ffffff) | ![Git](https://img.shields.io/badge/Git-2E9E82?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-3AAFA9?style=flat-square&logo=github&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-4D8C7A?style=flat-square&logo=figma&logoColor=ffffff) |
+| ![HTML5](https://img.shields.io/badge/HTML5-2E9E82?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-3AAFA9?style=flat-square&logo=css3&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-2E9E82?style=flat-square&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/Java-3AAFA9?style=flat-square&logo=java&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-2E9E82?style=flat-square&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-3AAFA9?style=flat-square&logo=github&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-4D8C7A?style=flat-square&logo=figma&logoColor=ffffff) ![Ruby](https://img.shields.io/badge/Ruby-4D8C7A?style=flat-square&logo=ruby&logoColor=ffffff) | |
 
 <br>
 
 <img src="https://ghchart.rshah.org/00D9A6/jisoo0420" alt="GitHub Contributions"/>
 
 </div>
+
