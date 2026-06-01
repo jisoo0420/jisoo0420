@@ -1,14 +1,10 @@
 <div align="center">
 
-🌀 **Jisoo's Github** 🌀
+# 🌀 Jisoo's Github 🌀
 
 📧 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr) &nbsp;|&nbsp; 🐱 [jisoo0420](https://github.com/jisoo0420)
 
 </div>
-
-
-📧 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr)  
-🐱 [jisoo0420](https://github.com/jisoo0420)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=300&lines=Front+🔅)](https://git.io/typing-svg)
 
