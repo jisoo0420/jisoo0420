@@ -13,5 +13,12 @@
 </div>
 
 
+# 잔디 그래프
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jisoo0420&theme=github-compact)
+
+# 스탯 카드
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisoo0420&show_icons=true&theme=dark)
+
+# 많이 쓴 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo0420&layout=compact&theme=dark)
 
