@@ -16,8 +16,4 @@
 
 
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisoo0420&show_icons=true&theme=tokyonight)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jisoo0420&show_icons=true&theme=tokyonight&count_private=true)
