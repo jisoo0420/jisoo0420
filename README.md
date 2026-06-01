@@ -13,4 +13,6 @@
 </div>
 
 
-![GitHub Contributions](https://ghchart.rshah.org/40916c/jisoo0420)
+<div align="center">
+  <img src="https://ghchart.rshah.org/0066ff/jisoo0420" alt="GitHub Contributions"/>
+</div>
