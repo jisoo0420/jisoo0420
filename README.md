@@ -1,4 +1,10 @@
-<h1> 🌀 Jisoo's Github 🌀</h1>
+<div align="center">
+
+🌀 **Jisoo's Github** 🌀
+
+📧 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr) &nbsp;|&nbsp; 🐱 [jisoo0420](https://github.com/jisoo0420)
+
+</div>
 
 
 📧 [ash01@dgsw.hs.kr](mailto:ash01@dgsw.hs.kr)  
