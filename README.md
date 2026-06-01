@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:35858E,100:C2D099&height=200&section=header&text=🌿%20Jisoo's%20Github%20🌿&fontSize=50&fontColor=E6EEC9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:35858E,100:C2D099&height=200&section=header&text=✰%20Jisoo's%20Github%20✰&fontSize=50&fontColor=E6EEC9)
 
 <div align="center">
 
